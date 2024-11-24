@@ -1,5 +1,5 @@
 import BotaoCustom from "../../Components/Botao/botao.styled";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 interface FormularioInterface {
   className?: string;
 }
