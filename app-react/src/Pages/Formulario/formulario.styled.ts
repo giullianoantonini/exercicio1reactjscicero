@@ -17,6 +17,12 @@ const FormularioEstilizado = styled(Formulario)`
     border-radius: 4px;
     margin-bottom: 10px;
   }
+
+  .mensagemErro {
+    background-color: #e07373;
+    padding: 10px;
+    border-radius: 4px;
+  }
 `;
 
 export default FormularioEstilizado;
